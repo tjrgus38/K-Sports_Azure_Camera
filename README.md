@@ -14,8 +14,8 @@
   + [FoI (Field of Interest)]
 ![image](https://user-images.githubusercontent.com/90364187/178386415-a93bc1f4-f564-4719-921a-dcd1a4da4401.png)
 
-#### RGB 카메라
-해상도(HxV) 3840  x 2160
+#### RGB 카메라해상도(HxV) 
+3840  x 2160
 2560  x 1440
 1920  x 1080
 1280  x 720
